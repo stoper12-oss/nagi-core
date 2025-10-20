@@ -162,4 +162,5 @@ transforming computation from a static process into a *living discipline of ethi
 
 ---
 
-© 2025 NAGI Core Initiative — All Rights Reserved.
+© 2025 all rights reserved Willis Hartin please contact willishartin37@gmail.com or 1+(864)568-6763
+
