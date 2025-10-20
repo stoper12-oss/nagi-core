@@ -39,7 +39,7 @@ Together, these form a **Complete Cognitive Quadrant**, enabling NAGI to reason,
 ---
 
 ## 🚀 Getting Started
-Clone and explore the current operational build:
+Clone and explore the current operational build:contact owner for any information
 
 ```bash
 git clone https://github.com/stoper12-oss/nagi-core.git
@@ -65,7 +65,7 @@ For technical details, see [`/docs/NAGI_whitepaper.md`](./docs/NAGI_whitepaper.m
 ---
 
 ## 📜 License
-© 2025 **NAGI Core Initiative** — All Rights Reserved.  
+© 2025 **Willis Hartin** — All Rights Reserved.  
 Unauthorized commercial use or redistribution is prohibited.
 
 ---
